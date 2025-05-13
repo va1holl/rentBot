@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.log
+.idea/
+.env
+.venv/
+build/
+dist_obf/
+spec/
+bot.spec
+pyarmor.bug.log
